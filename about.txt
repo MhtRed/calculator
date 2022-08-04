@@ -1,0 +1,5 @@
+A simple Calculator App:
+Technologies, Libraries & Tools used:
+-> Reactjs for the User Interface,
+-> Pure CSS for Styling,
+-> UseReducer State Management
